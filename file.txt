@@ -1,0 +1,5 @@
+Looks like we're starting a new text file 
+Let's see if each read buffer is contains the history of the buffer or simply the new lines
+Looks like we're writing and reading properly this time
+Added a newline char to make some space after add a new text line entry
+Looks like it's working
